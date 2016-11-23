@@ -339,3 +339,22 @@ h6{
 	position: absolute;
 	bottom: -10px;
 }
+
+.img-pikachu {
+	background-image: url("../img/pikachu.png");
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	background-size: contain;
+}
+.img-pixel {
+	background-image: url("../img/pixel.png");
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	background-size: contain;
+}
